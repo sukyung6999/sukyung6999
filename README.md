@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sukyung's+Github&fontSize=90)
+[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sukyung's+Github&fontSize=80)](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sukyung's%20Github&desc=frontend%20Developer&fontSize=60&fontAlign=50&fontAlignY=40)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+respository!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E273&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukyung6999&layout=compact)
 
 <picture>
   <source
