@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BEBEBE&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
+- velog : https://velog.io/@oaksusu/posts
+- notion : https://cottony-slope-8c1.notion.site/c5ed533a750749e7bd49441ac1348642
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukyung6999&layout=compact)
 
 <picture>
