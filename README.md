@@ -8,7 +8,8 @@
 [두 번째 프로젝트 : Pravel](https://github.com/FrontierCodeWave/Pravel)
 - 한국관광공사 공모전에 참여한 프로젝트이며, 해당 프로젝트 진행 상황에 대한 [지라 링크](https://frontiercodewave.atlassian.net/jira/software/projects/KAN/list)와 관리에 대한 [노션 링크](https://suld2495.notion.site/_-efefb02b707d4e3498e4e763cfb6ebda)입니다.
 
-- velog : https://velog.io/@oaksusu/posts
+개발 관련 글을 작성해둔 
+- 블로그 :  https://velog.io/@oaksusu/posts
 - notion : https://cottony-slope-8c1.notion.site/c5ed533a750749e7bd49441ac1348642
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukyung6999&layout=compact)
